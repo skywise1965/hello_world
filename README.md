@@ -1,2 +1,4 @@
 # hello_world
-Example used in the tutorial for Git Hub
+
+Hello - working my through a new form of programming and editing.
+Always good to see how things have evolved.
